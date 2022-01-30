@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Shweta3340
+- 👀 I’m interested in learning Mobile App development
+- 🌱 I’m currently learning javasript and python advanced
+- 💞️ I’m looking to collaborate on Mobile App development
+- 📫 Reach me shweta3340@gmail.com
